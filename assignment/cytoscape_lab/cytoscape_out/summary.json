@@ -1,0 +1,23 @@
+{
+  "Example1_TP53": {
+    "suid": 5231,
+    "nodeCount": "11",
+    "edgeCount": "35",
+    "density": "0.6363636363636364",
+    "avNeighbors": "6.363636363636363"
+  },
+  "Example2_Drought": {
+    "suid": 7637,
+    "nodeCount": "20",
+    "edgeCount": "134",
+    "density": "0.7052631578947368",
+    "avNeighbors": "13.4"
+  },
+  "Exercise_TB": {
+    "suid": 9014,
+    "nodeCount": "23",
+    "edgeCount": "93",
+    "density": "0.36758893280632415",
+    "avNeighbors": "8.08695652173913"
+  }
+}
